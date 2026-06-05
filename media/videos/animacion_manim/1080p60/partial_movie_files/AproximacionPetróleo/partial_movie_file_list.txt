@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/3405135237_703626676_223132457.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/385713574_2590418419_2735797930.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/385713574_2574473371_2663731092.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/385713574_4271744673_4164367221.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/385713574_380085300_4222958889.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/385713574_493250293_1487400826.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/385713574_2382663710_1442900404.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/385713574_2705751729_2812058127.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/385713574_648828229_2383785937.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/385713574_3203928677_3463328963.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetróleo/385713574_4277570474_3232680500.mp4'

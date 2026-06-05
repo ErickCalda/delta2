@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/2524905928_2741190359_223132457.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_44256875_1254485567.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_2574473371_3555004804.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_2726528137_3241943520.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_810862691_1539830466.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_2898100655_3746070978.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_4089820488_3187357113.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_575689814_3148509650.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_2749889021_333534839.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_2820255954_3718796063.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_2407182104_3512434717.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/480p15/partial_movie_files/AproximacionLinealOrdenada/3615479671_4277570474_1786062492.mp4'

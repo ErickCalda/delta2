@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/DashboardExplicacion/2257293077_360663183_223132457.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/DashboardExplicacion/2135761390_2418441310_4086771966.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/DashboardExplicacion/2135761390_2487724369_534158760.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/DashboardExplicacion/2135761390_3678972296_126043152.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/DashboardExplicacion/2135761390_3029332133_1668214381.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/DashboardExplicacion/2135761390_1007209468_2623735768.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/DashboardExplicacion/2135761390_1522904678_2764936484.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/DashboardExplicacion/2135761390_4185327325_705733675.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/DashboardExplicacion/2135761390_4277570474_2488005053.mp4'

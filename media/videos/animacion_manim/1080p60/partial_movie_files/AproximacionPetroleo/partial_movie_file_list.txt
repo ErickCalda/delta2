@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetroleo/2257293077_3564111448_223132457.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetroleo/2135761390_3957025919_3106217117.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetroleo/2135761390_932344278_2312511215.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetroleo/2135761390_2815039368_2931214327.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetroleo/2135761390_2872842549_514333472.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetroleo/2135761390_4076778899_877382914.mp4'
+file 'file:/home/mimi/Escritorio/del22/media/videos/animacion_manim/1080p60/partial_movie_files/AproximacionPetroleo/2135761390_4277570474_4226263903.mp4'
